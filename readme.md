@@ -18,3 +18,5 @@ A. Jupiter.
 
 ### Question 1: 
 "Which came first? The chicken or the egg?"
+### Answer: 
+Although there may not be a 100% correct answer to this: two birds that were almost-but-not-quite chickens mated and laid an egg that hatched into the first chicken". 
