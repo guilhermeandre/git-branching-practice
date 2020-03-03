@@ -16,11 +16,8 @@ A. Jupiter.
 
 ## Questions
 
-### Question 1: 
-"Which came first? The chicken or the egg?"
-
-### Question 2: 
-"Which is the largest country by area in the American continent?"
-
 ### Question 3: 
 "Which movie won the 2020's Academy Award for best picture?"
+
+### Answer: 
+"The south-korean movie 'Parasite'"
