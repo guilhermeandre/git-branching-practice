@@ -18,3 +18,6 @@ A. Jupiter.
 
 ### Question 1: 
 "Which came first? The chicken or the egg?"
+
+### Question 2: 
+"Which is the largest country by area in the American continent?"
