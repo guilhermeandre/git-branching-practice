@@ -21,3 +21,6 @@ A. Jupiter.
 
 ### Question 2: 
 "Which is the largest country by area in the American continent?"
+
+### Question 3: 
+"Which movie won the 2020's Academy Award for best picture?"
