@@ -1,6 +1,6 @@
-#Part 1
+# Part 1
 
-##ntroduction
+## Introduction
 
 Use this document as a starting point for Part 1 of the Class 6 exercise.
 
@@ -14,4 +14,4 @@ The same question and the answer would appear on the dedicated 'answer branch'.
 Q. What is the largest planet in the solar system?
 A. Jupiter.
 
-##Questions
+## Questions
